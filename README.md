@@ -8,6 +8,7 @@ In my free time, I love to:
 1. Play some classical music and improvise worship songs on my violin!!
 2. I love giong out on nature walks and enjoy the nice California weather.
 3. playing with my little one!
+4. I love learning!!!
 
 -----------------
 Coding is fun!
