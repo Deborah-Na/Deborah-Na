@@ -14,12 +14,13 @@ In my free time, I love to:
 Coding is fun!
 
 I’m currently learning:
-React Javascript- full development- mongodb and mongoose
+Java!! (reminds me of coffee and chocolate chips!)
 
 -----------------
 Projects:
 
 - feel free to reach out for any project collabs. I love working with front-end development- HTML, CSS, Bootstrap, and JS.
+- Calendar Journal: "Paper Secrets". Journaling calendar app where one can create a journal entry on a specific date. 
 - Medical Symptom Checker: I recently worked on making a website for parents to share their experience with other parents in child healthcare using python with flask.
 - Working on a project with React js soon!
 
