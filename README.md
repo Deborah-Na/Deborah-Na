@@ -18,8 +18,7 @@ In my free time, I love to:
 Coding is fun!
 
 What I am doing currently?
-
-I am researching other frameworks, and deployment specialities such as Django, Docker, etc while brushing up my skills in React.js frontend and Java on the backend (am flexible)
+- I am researching other frameworks, and deployment specialities such as Django, Docker, etc while brushing up my skills in React.js frontend and Java on the backend (am flexible)
 -----------------
 Projects:
 
