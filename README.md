@@ -2,7 +2,7 @@
 
 Who I am?
 
-I'm a dynamic passionate fun-loving web developer who loves designing in the front-end and connecting the dots in the back-end. To be able to create anything through tech has become such a joy. I had never imagined that I would study or be able to work in this field, but now, I can't stop coding. My hunger and thirst for learning and taking on new challenges really pushes my drive. 
+I'm a dynamic passionate fun-loving web developer who loves designing in the front-end and connecting the dots in the back-end. To be able to create anything through tech has become such a joy. I had never imagined that I would study or be able to work in this field, but now, I can't stop coding. My hunger and thirst for learning and taking on new challenges really push my drive to do much more. 
 
 
 -----------------
