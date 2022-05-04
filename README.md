@@ -18,14 +18,19 @@ In my free time, I love to:
 Coding is fun!
 
 What I am doing currently?
-- I am researching other frameworks, and deployment specialities such as Django, Docker, etc while brushing up my skills in React.js frontend and Java on the backend (am flexible)
+- I am researching other frameworks, and tools such as Django, Docker, Selenium, Material UI  etc while brushing up my skills in React.js frontend and Java on the backend (am flexible).
 -----------------
 Projects:
 
 - feel free to reach out for any project collabs. I love working with front-end development- HTML, CSS, Bootstrap, Material UI, and JS.
-- Calendar Journal: "Paper Secrets". Journaling calendar app where one can create a journal entry on a specific date. 
+- Calendar Journal: "Paper Secrets". Journaling calendar app where one can create a journal entry on a specific date with React. 
+    https://github.com/Deborah-Na/Mern_CalendarProject
+    
 - Medical Symptom Checker: I recently worked on making a website for parents to share their experience with other parents in child healthcare using python with flask.
-- Wedding Retailer E-commerce website 
+    https://github.com/Deborah-Na/Python-Project--Med-Checker
+    
+- Wedding Retailer E-commerce website in Java Spring Boot
+    https://github.com/Deborah-Na/JavaProject
 
 Contact Me:
 
