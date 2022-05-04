@@ -29,7 +29,7 @@ Projects:
 
 Contact Me:
 
-You can contact me through github!
+deborahna2022@gmail.com
 
 Thank you for visiting my GitHub!
 
