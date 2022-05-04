@@ -29,9 +29,9 @@ Projects:
 - Medical Symptom Checker: I recently worked on making a website for parents to share their experience with other parents in child healthcare using python with flask.
     https://github.com/Deborah-Na/Python-Project--Med-Checker
     
-- Wedding Retailer E-commerce website in Java Spring Boot
-    https://github.com/Deborah-Na/JavaProject
-
+- Wedding Retailer E-commerce website in Java Spring Boot/collaboration
+   https://github.com/EthanLieberman/javaproject
+   
 Contact Me:
 
 deborahna2022@gmail.com
