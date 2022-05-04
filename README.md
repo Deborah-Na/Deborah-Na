@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Deborah-Na. Welcome to my GitHub! Please feel free to reach out to me anytime!! 
 
-Who I am?
+Who am I?
 
 I'm a dynamic passionate fun-loving web developer who loves designing in the front-end and connecting the dots in the back-end. To be able to create anything through tech has become such a joy. I had never imagined that I would study or be able to work in this field, but now, I can't stop coding. My hunger and thirst for learning and taking on new challenges really push my drive to do much more. 
+
+Currently, looking for a job. :)
 
 
 -----------------
@@ -12,13 +14,15 @@ In my free time, I love to:
 1. Play some classical music and improvise worship songs on my violin!!
 2. I love giong out on nature walks and enjoy the nice California weather.
 3. playing with my little one!
-4. I love learning!!!
+4. playing with more codes.. hehe!
 
 -----------------
 Coding is fun!
 
-What I am doing currently?
-- I am researching other frameworks, and tools such as Django, Docker, Selenium, Material UI  etc while brushing up my skills in React.js frontend and Java on the backend (am flexible).
+What am I currently working on?
+- researching other frameworks, and tools such as Django, Docker, Selenium, Material UI, SVG  etc while brushing up my skills in React.js frontend and Java on the backend (am flexible).
+- Portfolio
+- New Project Planning 
 -----------------
 Projects:
 
